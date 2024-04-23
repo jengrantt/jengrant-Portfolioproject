@@ -37,6 +37,6 @@
 }
 
 #accept-cookies:hover {
-  background-color: lightpink;
+  background-color: rgb(182, 215, 255);
   transition: 0.4s;
 }
